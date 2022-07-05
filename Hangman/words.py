@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Marketplace
-Explore
- 
-@io-benjamin 
-kiteco
-/
-python-youtube-code
-Public
-Code
-Issues
-14
-Pull requests
-4
-Actions
-Projects
-Wiki
-Security
-Insights
-python-youtube-code/build-hangman-in-python/words.py /
-@tacarpe
-tacarpe Create words.py
-Latest commit d42c6a8 on Feb 24, 2020
- History
- 1 contributor
-441 lines (441 sloc)  6.07 KB
-
 word_list = [
     'wares',
     'soup',
